@@ -1,5 +1,5 @@
 ---
-description: Guia rápida para recuperar Arquitectura y Programación de Sistemas en Internet
+## description: Guia rápida para recuperar Arquitectura y Programación de Sistemas en Internet
 ---
 
 # INTRO
@@ -31,21 +31,3 @@ El objetivo de esta guía es  recuperar la asignatura de Arquitectura y Programa
 El objetivo final es desarrollar una API que consulte la calidad del aire en diferentes aeropuertos, integrando todas las tecnologías y conceptos aprendidos. Este proyecto práctico consolidará mis conocimientos y habilidades en el desarrollo de APIs modernas.
 
 
-
-ESQUEMA DOCUMENTO
-
-1. INTRO
-2. [**Teoría** ](1.-teoria/)
-   1. [**TypeScript Básico**](1.-teoria/1.1-tipos.md)
-   2. [**Modificación de Arrays**](1.-teoria/1.2-arrays/)
-   3. [ **Método Reduce**](1.-teoria/1.2-arrays/1.3-reduce.md)
-3. **API Rest**
-4. **GraphQL**
-5. **Herramientas y Configuración**&#x20;
-   1. **Deno**
-      * Deno Deploy
-   2. MongoDB
-   3. Apollo server
-   4. Mongoose
-   5. API&#x20;
-6. [API AEROPUERTO CALIDAD AIRE](broken-reference)
