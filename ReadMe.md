@@ -14,7 +14,7 @@ Este repo es para probar github, gitbook y mi nuevo ordena :)
 **Contenido del Repo**
 
 -  [**GITBOOK**](https://lopezalcuadrado.gitbook.io/resumen-y-apuntes-aypdsei/): Documento en el que documento la asignatura con teoria, los programas usados y ejemplos.
--  **Proyecto 1 **: API de Calidad del Aire en Aeropuertos [Documentacion](https://lopezalcuadrado.gitbook.io/resumen-y-apuntes-aypdsei/api-aeropuerto-calidad-aire/api-aeropuerto-calidad-aire).
+-  **Ejercicio 1 **: API de Calidad del Aire en Aeropuertos [Documentacion](https://lopezalcuadrado.gitbook.io/resumen-y-apuntes-aypdsei/api-aeropuerto-calidad-aire/api-aeropuerto-calidad-aire).
 
-El objetivo final es desarrollar una API que consulte la calidad del aire en diferentes aeropuertos, integrando todas las tecnologías y conceptos aprendidos. Este proyecto práctico consolidará mis conocimientos y habilidades en el desarrollo de APIs modernas.
+El objetivo final es Poder hacer ejercicios de modelo examen usando o no la chuleta.
 
